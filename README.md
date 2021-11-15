@@ -8,3 +8,11 @@
 
 * [Other tasks](other_tasks.md)
 * [Grades system](grades_system.md)
+
+---
+
+Requirements:
+- Java Code Conventions
+- Unit tests (using jUnit 5)
+- Test covering > 80%
+- javaDoc documentation (class, public methods)
